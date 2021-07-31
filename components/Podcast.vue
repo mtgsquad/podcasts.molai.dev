@@ -11,6 +11,8 @@
         </h2>
         <p class="mt-3 text-gray-600">
           {{ speaker }}
+          <br>
+          {{ lang }}
         </p>
         <p class="mt-4 pt-4 text-gray-800 border-t border-dashed">
           <audio controls>
@@ -73,7 +75,8 @@ export default {
   props: [
     'title',
     'speaker',
-    'source'
+    'source',
+    'lang'
   ]
 }
 </script>
