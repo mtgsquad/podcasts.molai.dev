@@ -13,6 +13,13 @@
           The perfect platform, for listening to your favourites on the go.
         </p>
         <div class="mt-4 pt-4 text-gray-800 border-t border-dashed">
+         The Daily Show - India And Pakistan
+         -
+         <a class="link" href="./podcasts/daily-show-with-trevor-noah">
+          Listen
+         </a>
+        </div>
+        <div class="mt-4 pt-4 text-gray-800 border-t border-dashed">
          Junaid Akram - Science Behind Shopping #15 
          -
          <a class="link" href="./podcasts/junaid-akram-science-behind-shopping-15">
