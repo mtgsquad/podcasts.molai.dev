@@ -15,7 +15,7 @@
           {{ lang }}
         </p>
         <p class="mt-4 pt-4 text-gray-800 border-t border-dashed">
-          <audio controls>
+          <audio class="larger" controls>
               <source :src="source">
               Your browser doesn't support audio :(
           </audio>
@@ -67,6 +67,10 @@
   margin-top: 8px;
   margin-right: 16px;
   font-size: 17px;
+}
+
+.larger {
+  width: 100%;
 }
 </style>
 
